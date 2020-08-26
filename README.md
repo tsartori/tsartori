@@ -19,5 +19,4 @@ Sou comerciante e tenho a programação como um hobby.
 
 ![](https://github-readme-stats.vercel.app/api?username=tsartori)
 
-> Se está muito difícil encontrar o caminho, faça-o
-** Autor desconhecido **
+> Se está muito difícil encontrar o caminho, faça-o.
