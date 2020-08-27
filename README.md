@@ -1,10 +1,12 @@
-## Bem vindo
-***
+## Bem vindo ao meu GitHub
+
+---
+
 Olá, sou o Thiago, formado em Ciência da Computação pela [UNIFAGOC](https://www.fagoc.br/).
 Sou comerciante e tenho a programação como um hobby.
 
-
 ### Minhas redes
+
 <ul>
   <li>
     <img src="https://user-images.githubusercontent.com/30157522/87162006-b6c05980-c29b-11ea-8dfe-fba74549729b.png" width="18" alt="Youtube">
