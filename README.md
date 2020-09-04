@@ -19,6 +19,7 @@ Sou comerciante e tenho a programação como um hobby.
   </li>
 </ul>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsartori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api?username=tsartori)
 
 > Se está muito difícil encontrar o caminho, faça-o.
