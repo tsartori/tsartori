@@ -5,9 +5,6 @@
 Olá, sou o Thiago, formado em Ciência da Computação pela [UNIFAGOC](https://www.fagoc.br/).
 Sou comerciante e tenho a programação como um hobby.
 
-<p>
-  <img src="https://gpvc.arturio.dev/tsartori" alt="profile views">
-</p>
 ### Minhas redes
 
 <ul>
@@ -25,5 +22,9 @@ Sou comerciante e tenho a programação como um hobby.
 ![](https://github-readme-stats.vercel.app/api?username=tsartori)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsartori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>
+  <img src="https://gpvc.arturio.dev/tsartori" alt="profile views">
+</p>
 
 > Se está muito difícil encontrar o caminho, faça-o.
