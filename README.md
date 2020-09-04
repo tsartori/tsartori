@@ -5,6 +5,10 @@
 Olá, sou o Thiago, formado em Ciência da Computação pela [UNIFAGOC](https://www.fagoc.br/).
 Sou comerciante e tenho a programação como um hobby.
 
+<p>
+  <img src="https://gpvc.arturio.dev/tsartori" alt="profile views">
+</p>
+
 ### Minhas redes
 
 <ul>
