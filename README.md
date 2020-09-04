@@ -8,7 +8,6 @@ Sou comerciante e tenho a programação como um hobby.
 <p>
   <img src="https://gpvc.arturio.dev/tsartori" alt="profile views">
 </p>
-
 ### Minhas redes
 
 <ul>
